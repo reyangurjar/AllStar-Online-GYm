@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Group_48" data-name="Group 48" transform="translate(-817 -3598)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="50" cy="50" r="50" transform="translate(817 3598)" fill="#fff"/>
+    <g id="message-question-service-help-support" transform="translate(835 3616)">
+      <path id="Path_68" data-name="Path 68" d="M49,34a1,1,0,0,1-.65-.241L41.63,28H25a5.006,5.006,0,0,1-5-5V7a5.006,5.006,0,0,1,5-5H53a5.006,5.006,0,0,1,5,5V23a5.006,5.006,0,0,1-5,5H50v5A1,1,0,0,1,49,34ZM25,4a3,3,0,0,0-3,3V23a3,3,0,0,0,3,3H42a.994.994,0,0,1,.65.241L48,30.826V27a1,1,0,0,1,1-1h4a3,3,0,0,0,3-3V7a3,3,0,0,0-3-3Z" fill="#2f0a00"/>
+      <path id="Path_69" data-name="Path 69" d="M39,22a.99.99,0,1,1,.71-.29A1.05,1.05,0,0,1,39,22Z" fill="#2f0a00"/>
+      <path id="Path_70" data-name="Path 70" d="M39,19a1,1,0,0,1-1-1V15.823a1.95,1.95,0,0,1,1.507-1.887,2,2,0,0,0,1.46-2.307,2.024,2.024,0,0,0-1.6-1.6A2,2,0,0,0,37,12a1,1,0,1,1-2,0,4,4,0,1,1,5.011,3.871L40,18A1,1,0,0,1,39,19Z" fill="#2f0a00"/>
+      <path id="Path_71" data-name="Path 71" d="M15,62a1,1,0,0,1-1-1V56H11a5.006,5.006,0,0,1-5-5V35a5.006,5.006,0,0,1,5-5H39a5.006,5.006,0,0,1,5,5V51a5.006,5.006,0,0,1-5,5H22.37l-6.719,5.759A1,1,0,0,1,15,62ZM11,32a3,3,0,0,0-3,3V51a3,3,0,0,0,3,3h4a1,1,0,0,1,1,1v3.826l5.349-4.585A1,1,0,0,1,22,54H39a3,3,0,0,0,3-3V35a3,3,0,0,0-3-3Z" fill="#2f0a00"/>
+      <path id="Path_72" data-name="Path 72" d="M15,38H13a1,1,0,0,1,0-2h2a1,1,0,0,1,0,2Z" fill="#2f0a00"/>
+      <path id="Path_73" data-name="Path 73" d="M37,38H19a1,1,0,0,1,0-2H37a1,1,0,0,1,0,2Z" fill="#2f0a00"/>
+      <path id="Path_74" data-name="Path 74" d="M15,42H13a1,1,0,0,1,0-2h2a1,1,0,0,1,0,2Z" fill="#2f0a00"/>
+      <path id="Path_75" data-name="Path 75" d="M37,42H19a1,1,0,0,1,0-2H37a1,1,0,0,1,0,2Z" fill="#2f0a00"/>
+      <path id="Path_76" data-name="Path 76" d="M15,46H13a1,1,0,0,1,0-2h2a1,1,0,0,1,0,2Z" fill="#2f0a00"/>
+      <path id="Path_77" data-name="Path 77" d="M37,46H19a1,1,0,0,1,0-2H37a1,1,0,0,1,0,2Z" fill="#2f0a00"/>
+      <path id="Path_78" data-name="Path 78" d="M15,50H13a1,1,0,0,1,0-2h2a1,1,0,0,1,0,2Z" fill="#2f0a00"/>
+      <path id="Path_79" data-name="Path 79" d="M37,50H19a1,1,0,0,1,0-2H37a1,1,0,0,1,0,2Z" fill="#2f0a00"/>
+    </g>
+  </g>
+</svg>
